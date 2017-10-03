@@ -81,6 +81,14 @@ val do' : Command.command -> state -> state
  ********************************************************)
 (* You are free to add more code below *)
 
+(* [room_description s] is the string description of the current_room of [s]
+ * requires: [s] is a valid state *)
 val room_description: state -> string
+
+(* [items_in_room s] gives a string list of the items in your inventory at [s]
+ * requires: [s] is a valid state *)
 val items_in_room: state -> string list
+
+(* [win_message_string s] gives the winning_message of state [s] as a string
+ * requires: [s] is a valid state *)
 val win_message_string: state -> string

@@ -1,0 +1,648 @@
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Runner: processes
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Chooser: simple
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration suite_name = "Adventure test suite"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration cache_filename = "/Users/ohadkoronyo/Desktop/a2/_build/oUnit-$(suite_name).cache"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration display = "true"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration verbose = "false"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration health_check_interval = "1."
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration testdata_dir = "none"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration chooser = "simple"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration output_html_dir = "none"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration runner = "processes"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration shards = "2"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration output_junit_file = "none"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Configuration output_file = "/Users/ohadkoronyo/Desktop/a2/_build/oUnit-$(suite_name)-$(shard_id).log"
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Using 2 workers maximum.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Starting worker number dhcp-gs-5181.eduroam.cornell.edu#01.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Worker dhcp-gs-5181.eduroam.cornell.edu#01 started.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Starting worker number dhcp-gs-5181.eduroam.cornell.edu#02.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Worker dhcp-gs-5181.eduroam.cornell.edu#02 started.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:1: start_score, Adventure test suite:0:1: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:0:1: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:1: start_score, Adventure test suite:0:1: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:1:1: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:1: start_score, Adventure test suite:0:1: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:0:1: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:1: start_score, Adventure test suite:0:1: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:0:1: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:1:1: start_score, Adventure test suite:0:1: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:2:1: start_turns, Adventure test suite:1:1: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:2:1: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:2:1: start_turns, Adventure test suite:1:1: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:1:1: start_score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:2:1: start_turns, Adventure test suite:1:1: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:1:1: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:2:1: start_turns, Adventure test suite:1:1: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:3:1: start_room, Adventure test suite:2:1: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:2:1: start_turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:3:1: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:3:1: start_room, Adventure test suite:2:1: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:2:1: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:3:1: start_room, Adventure test suite:2:1: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:4:1: start_inv, Adventure test suite:3:1: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:4:1: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:4:1: start_inv, Adventure test suite:3:1: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:3:1: start_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:4:1: start_inv, Adventure test suite:3:1: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:3:1: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:4:1: start_inv, Adventure test suite:3:1: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:5:1: rooms_visited, Adventure test suite:4:1: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:4:1: start_inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:5:1: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:5:1: rooms_visited, Adventure test suite:4:1: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:4:1: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:5:1: rooms_visited, Adventure test suite:4:1: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:1: start_locations, Adventure test suite:5:1: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:6:1: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:1: start_locations, Adventure test suite:5:1: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:5:1: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:1: start_locations, Adventure test suite:5:1: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:5:1: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:6:1: start_locations, Adventure test suite:5:1: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:7:2: max, Adventure test suite:6:1: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:7:2: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:7:2: max, Adventure test suite:6:1: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:6:1: start_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:7:2: max, Adventure test suite:6:1: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:6:1: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:7:2: max, Adventure test suite:6:1: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:8:2: start_score, Adventure test suite:7:2: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:8:2: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:8:2: start_score, Adventure test suite:7:2: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:7:2: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:8:2: start_score, Adventure test suite:7:2: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:7:2: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:8:2: start_score, Adventure test suite:7:2: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:9:2: start_turns, Adventure test suite:8:2: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:8:2: start_score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:9:2: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:9:2: start_turns, Adventure test suite:8:2: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:8:2: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:9:2: start_turns, Adventure test suite:8:2: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:10:2: start_room, Adventure test suite:9:2: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:10:2: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:10:2: start_room, Adventure test suite:9:2: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:9:2: start_turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:10:2: start_room, Adventure test suite:9:2: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:9:2: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:10:2: start_room, Adventure test suite:9:2: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:11:2: start_inv, Adventure test suite:10:2: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:11:2: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:11:2: start_inv, Adventure test suite:10:2: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:10:2: start_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:11:2: start_inv, Adventure test suite:10:2: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:10:2: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:11:2: start_inv, Adventure test suite:10:2: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:12:2: rooms_visited, Adventure test suite:11:2: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:11:2: start_inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:12:2: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:12:2: rooms_visited, Adventure test suite:11:2: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:11:2: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:12:2: rooms_visited, Adventure test suite:11:2: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:13:2: start_locations, Adventure test suite:12:2: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:13:2: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:13:2: start_locations, Adventure test suite:12:2: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:12:2: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:13:2: start_locations, Adventure test suite:12:2: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:12:2: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:13:2: start_locations, Adventure test suite:12:2: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:14:3: max, Adventure test suite:13:2: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:13:2: start_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:14:3: max, Adventure test suite:13:2: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:13:2: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:14:3: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:14:3: max, Adventure test suite:13:2: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:15:3: start_score, Adventure test suite:14:3: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:15:3: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:15:3: start_score, Adventure test suite:14:3: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:14:3: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:15:3: start_score, Adventure test suite:14:3: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:14:3: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:15:3: start_score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:15:3: start_score, Adventure test suite:14:3: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:15:3: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:16:3: start_turns, Adventure test suite:15:3: start_score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:17:3: start_room, Adventure test suite:16:3: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:16:3: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:17:3: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:17:3: start_room, Adventure test suite:16:3: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:16:3: start_turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:17:3: start_room, Adventure test suite:16:3: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:16:3: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:17:3: start_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:17:3: start_room, Adventure test suite:16:3: start_turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:17:3: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:18:3: start_inv, Adventure test suite:17:3: start_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:19:3: rooms_visited, Adventure test suite:18:3: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:18:3: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:19:3: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:19:3: rooms_visited, Adventure test suite:18:3: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:18:3: start_inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:19:3: rooms_visited, Adventure test suite:18:3: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:18:3: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:19:3: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:19:3: rooms_visited, Adventure test suite:18:3: start_inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:19:3: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:20:3: start_locations, Adventure test suite:19:3: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:21:4: max, Adventure test suite:20:3: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:20:3: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:21:4: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:21:4: max, Adventure test suite:20:3: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:21:4: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:21:4: max, Adventure test suite:20:3: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:21:4: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:21:4: max, Adventure test suite:20:3: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:20:3: start_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:22:4: score, Adventure test suite:20:3: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:20:3: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:22:4: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:22:4: score, Adventure test suite:20:3: start_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:23:4: turns, Adventure test suite:22:4: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:23:4: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:23:4: turns, Adventure test suite:22:4: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:22:4: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:23:4: turns, Adventure test suite:22:4: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:22:4: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:23:4: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:23:4: turns, Adventure test suite:22:4: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:23:4: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:24:4: current_room, Adventure test suite:23:4: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:24:4: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:25:4: inv, Adventure test suite:24:4: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:25:4: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:25:4: inv, Adventure test suite:24:4: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:24:4: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:25:4: inv, Adventure test suite:24:4: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:24:4: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:25:4: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:25:4: inv, Adventure test suite:24:4: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:25:4: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:26:4: rooms_visited, Adventure test suite:25:4: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:4: item_locations, Adventure test suite:26:4: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:26:4: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:4: item_locations, Adventure test suite:26:4: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:27:4: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:4: item_locations, Adventure test suite:26:4: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:26:4: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:27:4: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:4: item_locations, Adventure test suite:26:4: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:26:4: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:27:4: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:27:4: item_locations, Adventure test suite:26:4: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:5: score, Adventure test suite:28:5: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:28:5: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:5: score, Adventure test suite:28:5: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:29:5: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:5: score, Adventure test suite:28:5: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:28:5: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:29:5: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:5: score, Adventure test suite:28:5: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:28:5: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:29:5: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:29:5: score, Adventure test suite:28:5: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:5: current_room, Adventure test suite:30:5: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:30:5: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:5: current_room, Adventure test suite:30:5: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:31:5: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:5: current_room, Adventure test suite:30:5: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:30:5: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:5: current_room, Adventure test suite:30:5: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:30:5: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:31:5: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:31:5: current_room, Adventure test suite:30:5: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:31:5: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:32:5: inv, Adventure test suite:31:5: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:5: rooms_visited, Adventure test suite:32:5: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:33:5: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:5: rooms_visited, Adventure test suite:32:5: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:32:5: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:5: rooms_visited, Adventure test suite:32:5: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:33:5: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:5: rooms_visited, Adventure test suite:32:5: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:32:5: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:33:5: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:33:5: rooms_visited, Adventure test suite:32:5: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:32:5: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:34:5: item_locations, Adventure test suite:32:5: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:34:5: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:35:5b: max, Adventure test suite:34:5: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:35:5b: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:35:5b: max, Adventure test suite:34:5: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:35:5b: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:35:5b: max, Adventure test suite:34:5: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:34:5: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:35:5b: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:35:5b: max, Adventure test suite:34:5: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:34:5: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:36:5b: score, Adventure test suite:34:5: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:37:5b: turns, Adventure test suite:36:5b: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:36:5b: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:37:5b: turns, Adventure test suite:36:5b: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:37:5b: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:37:5b: turns, Adventure test suite:36:5b: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:36:5b: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:37:5b: turns, Adventure test suite:36:5b: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:36:5b: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:37:5b: turns, Adventure test suite:36:5b: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:38:5b: current_room, Adventure test suite:37:5b: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:37:5b: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:38:5b: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:38:5b: current_room, Adventure test suite:37:5b: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:37:5b: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:38:5b: current_room, Adventure test suite:37:5b: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:39:5b: inv, Adventure test suite:38:5b: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:39:5b: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:39:5b: inv, Adventure test suite:38:5b: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:38:5b: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:39:5b: inv, Adventure test suite:38:5b: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:38:5b: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:39:5b: inv, Adventure test suite:38:5b: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:40:5b: rooms_visited, Adventure test suite:39:5b: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:40:5b: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:40:5b: rooms_visited, Adventure test suite:39:5b: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:39:5b: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:40:5b: rooms_visited, Adventure test suite:39:5b: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:39:5b: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:40:5b: rooms_visited, Adventure test suite:39:5b: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:41:5b: item_locations, Adventure test suite:40:5b: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:41:5b: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:41:5b: item_locations, Adventure test suite:40:5b: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:40:5b: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:41:5b: item_locations, Adventure test suite:40:5b: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:40:5b: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:41:5b: item_locations, Adventure test suite:40:5b: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:42:5c: max, Adventure test suite:41:5b: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:42:5c: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:42:5c: max, Adventure test suite:41:5b: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:41:5b: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:42:5c: max, Adventure test suite:41:5b: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:41:5b: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:42:5c: max, Adventure test suite:41:5b: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:43:5c: score, Adventure test suite:42:5c: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:43:5c: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:43:5c: score, Adventure test suite:42:5c: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:42:5c: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:43:5c: score, Adventure test suite:42:5c: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:42:5c: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:43:5c: score, Adventure test suite:42:5c: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:44:5c: turns, Adventure test suite:43:5c: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:43:5c: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:44:5c: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:44:5c: turns, Adventure test suite:43:5c: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:43:5c: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:44:5c: turns, Adventure test suite:43:5c: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:45:5c: current_room, Adventure test suite:44:5c: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:45:5c: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:45:5c: current_room, Adventure test suite:44:5c: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:44:5c: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:45:5c: current_room, Adventure test suite:44:5c: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:44:5c: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:45:5c: current_room, Adventure test suite:44:5c: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:46:5c: inv, Adventure test suite:45:5c: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:45:5c: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:46:5c: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:46:5c: inv, Adventure test suite:45:5c: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:45:5c: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:46:5c: inv, Adventure test suite:45:5c: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:47:5c: rooms_visited, Adventure test suite:46:5c: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:47:5c: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:47:5c: rooms_visited, Adventure test suite:46:5c: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:46:5c: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:47:5c: rooms_visited, Adventure test suite:46:5c: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:46:5c: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:47:5c: rooms_visited, Adventure test suite:46:5c: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:48:5c: item_locations, Adventure test suite:47:5c: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:47:5c: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:48:5c: item_locations, Adventure test suite:47:5c: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:47:5c: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:48:5c: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:48:5c: item_locations, Adventure test suite:47:5c: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:49:5d: max, Adventure test suite:48:5c: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:49:5d: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:49:5d: max, Adventure test suite:48:5c: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:48:5c: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:49:5d: max, Adventure test suite:48:5c: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:48:5c: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:49:5d: max, Adventure test suite:48:5c: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:50:5d: score, Adventure test suite:49:5d: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:50:5d: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:50:5d: score, Adventure test suite:49:5d: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:49:5d: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:50:5d: score, Adventure test suite:49:5d: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:49:5d: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:50:5d: score, Adventure test suite:49:5d: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:51:5d: turns, Adventure test suite:50:5d: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:51:5d: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:51:5d: turns, Adventure test suite:50:5d: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:50:5d: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:51:5d: turns, Adventure test suite:50:5d: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:50:5d: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:51:5d: turns, Adventure test suite:50:5d: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:52:5d: current_room, Adventure test suite:51:5d: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:52:5d: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:52:5d: current_room, Adventure test suite:51:5d: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:51:5d: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:52:5d: current_room, Adventure test suite:51:5d: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:51:5d: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:52:5d: current_room, Adventure test suite:51:5d: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:53:5d: inv, Adventure test suite:52:5d: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:52:5d: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:53:5d: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:53:5d: inv, Adventure test suite:52:5d: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:52:5d: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:53:5d: inv, Adventure test suite:52:5d: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:54:5d: rooms_visited, Adventure test suite:53:5d: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:54:5d: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:54:5d: rooms_visited, Adventure test suite:53:5d: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:53:5d: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:54:5d: rooms_visited, Adventure test suite:53:5d: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:53:5d: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:54:5d: rooms_visited, Adventure test suite:53:5d: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:55:5d: item_locations, Adventure test suite:54:5d: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:54:5d: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:55:5d: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:55:5d: item_locations, Adventure test suite:54:5d: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:54:5d: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:55:5d: item_locations, Adventure test suite:54:5d: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:56:6: max, Adventure test suite:55:5d: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:56:6: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:56:6: max, Adventure test suite:55:5d: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:55:5d: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:56:6: max, Adventure test suite:55:5d: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:55:5d: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:56:6: max, Adventure test suite:55:5d: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:57:6: score, Adventure test suite:56:6: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:57:6: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:57:6: score, Adventure test suite:56:6: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:56:6: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:57:6: score, Adventure test suite:56:6: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:56:6: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:57:6: score, Adventure test suite:56:6: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:58:6: turns, Adventure test suite:57:6: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:57:6: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:58:6: turns, Adventure test suite:57:6: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:57:6: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:58:6: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:58:6: turns, Adventure test suite:57:6: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:59:6: current_room, Adventure test suite:58:6: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:59:6: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:59:6: current_room, Adventure test suite:58:6: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:58:6: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:59:6: current_room, Adventure test suite:58:6: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:58:6: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:59:6: current_room, Adventure test suite:58:6: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:60:6: inv, Adventure test suite:59:6: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:60:6: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:60:6: inv, Adventure test suite:59:6: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:59:6: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:60:6: inv, Adventure test suite:59:6: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:59:6: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:60:6: inv, Adventure test suite:59:6: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:61:6: rooms_visited, Adventure test suite:60:6: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:61:6: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:61:6: rooms_visited, Adventure test suite:60:6: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:60:6: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:61:6: rooms_visited, Adventure test suite:60:6: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:60:6: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:61:6: rooms_visited, Adventure test suite:60:6: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:62:6: item_locations, Adventure test suite:61:6: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:62:6: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:62:6: item_locations, Adventure test suite:61:6: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:61:6: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:62:6: item_locations, Adventure test suite:61:6: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:61:6: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:62:6: item_locations, Adventure test suite:61:6: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:63:7: max, Adventure test suite:62:6: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:63:7: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:63:7: max, Adventure test suite:62:6: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:62:6: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:63:7: max, Adventure test suite:62:6: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:62:6: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:63:7: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:63:7: max, Adventure test suite:62:6: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:63:7: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:64:7: score, Adventure test suite:63:7: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:65:7: turns, Adventure test suite:64:7: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:64:7: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:65:7: turns, Adventure test suite:64:7: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:65:7: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:65:7: turns, Adventure test suite:64:7: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:64:7: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:65:7: turns, Adventure test suite:64:7: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:64:7: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:65:7: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:65:7: turns, Adventure test suite:64:7: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:65:7: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:66:7: current_room, Adventure test suite:65:7: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:66:7: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:67:7: inv, Adventure test suite:66:7: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:67:7: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:67:7: inv, Adventure test suite:66:7: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:66:7: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:67:7: inv, Adventure test suite:66:7: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:66:7: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:67:7: inv, Adventure test suite:66:7: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:67:7: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:68:7: rooms_visited, Adventure test suite:67:7: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:67:7: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:68:7: rooms_visited, Adventure test suite:67:7: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:68:7: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:69:7: item_locations, Adventure test suite:68:7: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:69:7: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:69:7: item_locations, Adventure test suite:68:7: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:69:7: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:69:7: item_locations, Adventure test suite:68:7: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:68:7: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:69:7: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:69:7: item_locations, Adventure test suite:68:7: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:68:7: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:70:8: max, Adventure test suite:68:7: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:70:8: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:71:8: score, Adventure test suite:70:8: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:71:8: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:71:8: score, Adventure test suite:70:8: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:70:8: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:71:8: score, Adventure test suite:70:8: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:70:8: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:71:8: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:71:8: score, Adventure test suite:70:8: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:71:8: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:72:8: turns, Adventure test suite:71:8: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:72:8: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:73:8: current_room, Adventure test suite:72:8: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:73:8: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:73:8: current_room, Adventure test suite:72:8: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:72:8: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:73:8: current_room, Adventure test suite:72:8: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:72:8: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:73:8: current_room, Adventure test suite:72:8: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:73:8: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:74:8: inv, Adventure test suite:73:8: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:73:8: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:74:8: inv, Adventure test suite:73:8: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:74:8: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:75:8: rooms_visited, Adventure test suite:74:8: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:75:8: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:75:8: rooms_visited, Adventure test suite:74:8: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:75:8: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:75:8: rooms_visited, Adventure test suite:74:8: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:74:8: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:75:8: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:75:8: rooms_visited, Adventure test suite:74:8: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:74:8: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:76:8: item_locations, Adventure test suite:74:8: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:77:9: max, Adventure test suite:76:8: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:76:8: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:77:9: max, Adventure test suite:76:8: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:77:9: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:77:9: max, Adventure test suite:76:8: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:76:8: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:77:9: max, Adventure test suite:76:8: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:76:8: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:77:9: max, Adventure test suite:76:8: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:77:9: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:78:9: score, Adventure test suite:77:9: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:77:9: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:78:9: score, Adventure test suite:77:9: max.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:78:9: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:79:9: turns, Adventure test suite:78:9: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:79:9: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:79:9: turns, Adventure test suite:78:9: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:78:9: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:79:9: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:79:9: turns, Adventure test suite:78:9: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:78:9: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:79:9: turns.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:79:9: turns, Adventure test suite:78:9: score.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:81:9: inv, Adventure test suite:80:9: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:80:9: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:81:9: inv, Adventure test suite:80:9: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:81:9: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:81:9: inv, Adventure test suite:80:9: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:80:9: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:81:9: inv, Adventure test suite:80:9: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:80:9: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:81:9: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:81:9: inv, Adventure test suite:80:9: current_room.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:81:9: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:82:9: rooms_visited, Adventure test suite:81:9: inv.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Still 2 tests running : Adventure test suite:83:9: item_locations, Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:83:9: item_locations, Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Start test Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Start test Adventure test suite:83:9: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Still 2 tests running : Adventure test suite:83:9: item_locations, Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:83:9: item_locations, Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: Test Adventure test suite:83:9: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Still 2 tests running : Adventure test suite:83:9: item_locations, Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:83:9: item_locations, Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: Test Adventure test suite:82:9: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#02 I: End test Adventure test suite:83:9: item_locations.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Still 2 tests running : Adventure test suite:83:9: item_locations, Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 2 tests running: Adventure test suite:83:9: item_locations, Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#01 I: End test Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Still 1 tests running : Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 1 tests running: Adventure test suite:82:9: rooms_visited.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: 0 tests running: .
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Worker dhcp-gs-5181.eduroam.cornell.edu#02 has ended.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Worker dhcp-gs-5181.eduroam.cornell.edu#01 has ended.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Used 2 worker during test execution.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Run 42 tests with shard dhcp-gs-5181.eduroam.cornell.edu#02.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Run 42 tests with shard dhcp-gs-5181.eduroam.cornell.edu#01.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: ==============
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Summary:
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:82:9: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:83:9: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:81:9: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:80:9: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:79:9: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:78:9: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:77:9: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:76:8: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:74:8: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:75:8: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:73:8: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:72:8: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:71:8: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:70:8: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:68:7: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:69:7: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:67:7: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:66:7: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:65:7: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:64:7: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:63:7: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:62:6: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:61:6: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:60:6: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:59:6: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:58:6: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:57:6: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:56:6: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:55:5d: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:54:5d: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:53:5d: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:52:5d: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:51:5d: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:50:5d: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:49:5d: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:48:5c: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:47:5c: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:46:5c: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:45:5c: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:44:5c: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:43:5c: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:42:5c: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:41:5b: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:40:5b: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:39:5b: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:38:5b: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:37:5b: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:36:5b: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:34:5: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:35:5b: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:32:5: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:33:5: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:31:5: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:30:5: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:29:5: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:28:5: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:27:4: item_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:26:4: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:25:4: inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:24:4: current_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:23:4: turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:22:4: score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:20:3: start_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:21:4: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:19:3: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:18:3: start_inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:17:3: start_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:16:3: start_turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:15:3: start_score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:14:3: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:13:2: start_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:12:2: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:11:2: start_inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:10:2: start_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:9:2: start_turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:8:2: start_score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:7:2: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:6:1: start_locations is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:5:1: rooms_visited is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:4:1: start_inv is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:3:1: start_room is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:2:1: start_turns is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:1:1: start_score is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Test Adventure test suite:0:1: max is successful.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Ran: 84 tests in: 0.13 seconds.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Cases: 84.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Tried: 84.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Errors: 0.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Failures: 0.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Skip: 0.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Todo: 0.
+2017-10-03T14:05:30+00:00 dhcp-gs-5181.eduroam.cornell.edu#00 I: Timeout: 0.

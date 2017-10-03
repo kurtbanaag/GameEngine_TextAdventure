@@ -8,21 +8,31 @@ type command = {
   word: string;
 }
 
+(* [makeGoCommand direction] creates a go command with c.word of [direction].
+ * requires: [direction] is a string. *)
 let makeGoCommand direction = {
   com = "go";
   word = direction;
 }
 
+(* [makeCommand c w] creates a command with c.com of [c] and
+ * c.word of [w].
+ * requires: [c] and [w] are strings. *)
 let makeCommand c w = {
   com = c;
   word = w;
 }
 
+(* [falseCommand] creates a false command with c.com of "" and c.word of "".
+ * requires: None. *)
 let falseCommand = {
   com = "";
   word = "";
 }
 
+(* [parse str] is the command that represents player input [str].
+ * requires: [str] is one of the commands forms described in the
+ *   assignment writeup. *)
 let parse str =
   let lowercaseStr = String.lowercase_ascii str in
   let wordsList = String.split_on_char ' ' lowercaseStr in

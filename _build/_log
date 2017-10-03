@@ -1,6 +1,6 @@
 ### Starting build.
-# Target: state_test.ml.depends, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), extension:ml, file:state_test.ml, ocaml, ocamldep, quiet, traverse }
-ocamlfind ocamldep -package oUnit -package yojson -package str -package ANSITerminal -modules state_test.ml > state_test.ml.depends
+# Target: checktypes.ml.depends, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), extension:ml, file:checktypes.ml, ocaml, ocamldep, quiet, traverse }
+ocamlfind ocamldep -package oUnit -package yojson -package str -package ANSITerminal -modules checktypes.ml > checktypes.ml.depends
 # Target: command.mli.depends, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), extension:mli, file:command.mli, ocaml, ocamldep, quiet, traverse }
 ocamlfind ocamldep -package oUnit -package yojson -package str -package ANSITerminal -modules command.mli > command.mli.depends # cached
 # Target: command.cmi, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), byte, compile, extension:mli, file:command.mli, interf, ocaml, quiet, traverse }
@@ -9,8 +9,8 @@ ocamlfind ocamlc -c -package oUnit -package yojson -package str -package ANSITer
 ocamlfind ocamldep -package oUnit -package yojson -package str -package ANSITerminal -modules state.mli > state.mli.depends # cached
 # Target: state.cmi, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), byte, compile, extension:mli, file:state.mli, interf, ocaml, quiet, traverse }
 ocamlfind ocamlc -c -package oUnit -package yojson -package str -package ANSITerminal -o state.cmi state.mli # cached
-# Target: state_test.cmo, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), byte, compile, extension:cmo, extension:ml, file:state_test.cmo, file:state_test.ml, implem, ocaml, quiet, traverse }
-ocamlfind ocamlc -c -package oUnit -package yojson -package str -package ANSITerminal -o state_test.cmo state_test.ml
+# Target: checktypes.cmo, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), byte, compile, extension:cmo, extension:ml, file:checktypes.cmo, file:checktypes.ml, implem, ocaml, quiet, traverse }
+ocamlfind ocamlc -c -package oUnit -package yojson -package str -package ANSITerminal -o checktypes.cmo checktypes.ml
 # Target: command.ml.depends, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), extension:ml, file:command.ml, ocaml, ocamldep, quiet, traverse }
 ocamlfind ocamldep -package oUnit -package yojson -package str -package ANSITerminal -modules command.ml > command.ml.depends # cached
 # Target: command.cmo, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), byte, compile, extension:cmo, extension:ml, file:command.cmo, file:command.ml, implem, ocaml, quiet, traverse }
@@ -19,6 +19,6 @@ ocamlfind ocamlc -c -package oUnit -package yojson -package str -package ANSITer
 ocamlfind ocamldep -package oUnit -package yojson -package str -package ANSITerminal -modules state.ml > state.ml.depends # cached
 # Target: state.cmo, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), byte, compile, extension:cmo, extension:ml, file:state.cmo, file:state.ml, implem, ocaml, quiet, traverse }
 ocamlfind ocamlc -c -package oUnit -package yojson -package str -package ANSITerminal -o state.cmo state.ml # cached
-# Target: state_test.byte, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), byte, dont_link_with, extension:byte, file:state_test.byte, link, ocaml, program, quiet, traverse }
-ocamlfind ocamlc -linkpkg -package oUnit -package yojson -package str -package ANSITerminal command.cmo state.cmo state_test.cmo -o state_test.byte
+# Target: checktypes.byte, tags: { package(ANSITerminal), package(oUnit), package(str), package(yojson), byte, dont_link_with, extension:byte, file:checktypes.byte, link, ocaml, program, quiet, traverse }
+ocamlfind ocamlc -linkpkg -package oUnit -package yojson -package str -package ANSITerminal command.cmo state.cmo checktypes.cmo -o checktypes.byte
 # Compilation successful.

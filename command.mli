@@ -23,6 +23,15 @@ val parse : string -> command
  ********************************************************)
 (* You are free to add more code below *)
 
+(* [makeGoCommand str] creates a go command with c.word of [str].
+ * requires: [str] is a string. *)
 val makeGoCommand: string -> command
+
+(* [makeCommand str1 str2] creates a command with c.com of [str1] and
+ * c.word of [str2].
+ * requires: [str1] and [str2] are strings. *)
 val makeCommand: string -> string -> command
+
+(* [falseCommand] creates a false command with c.com of "" and c.word of "".
+ * requires: None. *)
 val falseCommand: command

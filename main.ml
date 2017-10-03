@@ -18,6 +18,15 @@ let rec string_list_display (inv: string list) =
   | [] -> ()
   | h::t -> Pervasives.print_endline h; string_list_display t
 
+
+(* [turn_maker s firstWin] is the heart of the game engine's REPL; it reads the
+ * user's command, does that command on [s], prints relevant information, and
+ * passes the new state as a recursive call to itself. The function also checks
+ * if [firstWin] is true, and if it is true as well as win_score [s] has been
+ * achieved, then the win message of the adventure is displayed (and [firstWin]
+ * is set to false)
+ * requires: [s] is a valid state and [firstWin] is a boolean
+*)
 let rec turn_maker (s: state) (firstWin: bool) =
   Pervasives.print_endline "";
   if (score s = win_score s && firstWin) then (ANSITerminal.(print_string [blue]
@@ -67,13 +76,18 @@ let rec turn_maker (s: state) (firstWin: bool) =
   else turn_maker ns firstWin
 
 
+(* [play_game f] begins the REPL by parsing the .json file, printing some
+ * introductory information, and calling [turn_maker s firstWin] with
+ * [init_state (Yojson.Basic.from_file f)] and ["true"]
+ * requires: f is the name of a .json file
+*)
 let play_game f =
   try
     let s = init_state (Yojson.Basic.from_file f) in
     Pervasives.print_endline "";
 
     ANSITerminal.(print_string [blue]
-"Introductions: type go [direction] or go [room], or simply [direction] or [room], \n
+"Instructions: type go [direction] or go [room], or simply [direction] or [room], \n
 to move to a different location. Type take [item] to add an item to your inventory, \n
 and drop and item with drop [item]. Type look to bring up the description of the current location, \n
 type inventory or inv to bring up the items you're holding, type score to find out your current points,\n
